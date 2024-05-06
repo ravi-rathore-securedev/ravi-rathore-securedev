@@ -13,21 +13,16 @@
 
 
 <h2 align="left">Connect with Me
-<p align="left" > 
+<!-- <p align="left" > 
 <img align="left" src="https://komarev.com/ghpvc/?username=ravi-rathore-securedev&label=Profile%20views&color=0e75b6&style=flat" />
-</p></h2>
+</p></h2> -->
 
 
-<p align='left' style="margin:50">
+<p align='left' style="gap=50px">
   <a href="https://github.com/ravi-rathore-securedev"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="GitHub"/></a> 
 <a href="www.linkedin.com/in/ravi-rathore-securedev"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a> 
   <a href="https://www.leetcode.com/sirravirathore"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/leet-code.svg" width="40" height='40' title="LeetCode"/></a>
 </p>
-
-Here's how you can modify the provided code to match the format of the tables you shared:
-
-Sure, here's the modified code with the width and height set to 55 for all icons:
-
 <h2 align="left">Skillset</h2>
 
 ### Programming Languages:
