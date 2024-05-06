@@ -111,10 +111,10 @@
 </p>
 
 <br><hr><br>
-<div align='center'>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-rathore-securedev&show_icons=true&locale=en&layout=compact" width="80%" alt="ravi-rathore-securedev" />
-<img width="80%" align="center" align="left" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&locale=en" />
-<img width="80%" align="center" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&" />
+<div >
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-rathore-securedev&show_icons=true&locale=en&layout=compact" width="26%" alt="ravi-rathore-securedev" />
+<img width="33%" align="center" align="left" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&locale=en" />
+<img width="33%" align="center" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&" />
 
 </div>
 
