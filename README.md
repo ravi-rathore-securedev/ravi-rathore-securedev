@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Rathore</h1>
-<p align="center">
-  <img src="https://wallpapercave.com/wp/wp2610453.jpg" alt="Ravi Rathore" width="400" height="300">
-</p>
-<h3 align="center">Passionate Software Developer skilled in React, React Native, MERN stack, and Machine Learning. Committed to software security and crafting robust applications. Active contributor to open-source projects. Let's connect and innovate together!</h3>
+
+<h3 align="center">Passionate Software Developer skilled in MERN stack, and Machine Learning. Committed to software security and crafting robust applications. Active contributor to open-source projects. Let's connect and innovate together!</h3>
 
 - 🔭 I’m currently working on **MERN STACK Projects**
 
