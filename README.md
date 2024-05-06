@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋 I'm Ravi Rathore</h1>
 
-<h5 align="center">Passionate Software Developer skilled in MERN stack and Machine Learning. Committed to software security and crafting robust applications. Active contributor to open-source projects. Let's connect and innovate together!</h5>
+<h3 align="center">Passionate Software Developer skilled in MERN stack and Machine Learning. Committed to software security and crafting robust applications. Active contributor to open-source projects. Let's connect and innovate together!</h5>
 
 <h2 align="left">Some Facts About Me</h2>
 
@@ -111,10 +111,10 @@
 </p>
 
 <br><hr><br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-rathore-securedev&show_icons=true&locale=en&layout=compact" width="500" alt="ravi-rathore-securedev" />
+<div align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-rathore-securedev&show_icons=true&locale=en&layout=compact" width="380" alt="ravi-rathore-securedev" />
 <img width="50%" align="center" align="left" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&locale=en" />
 <img width="50%" align="center" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&" />
 
-
+</div>
 
