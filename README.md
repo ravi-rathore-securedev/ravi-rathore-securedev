@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Ravi Rathore</h1>
+<h1 align="center">Hii 👋, I'm Ravi Rathore</h1>
 
 <h3 align="center">Passionate Software Developer skilled in MERN stack and Machine Learning. Committed to software security and crafting robust applications. Active contributor to open-source projects. Let's connect and innovate together!</h5>
 
@@ -108,7 +108,7 @@ Sure, here's the modified code with the width and height set to 55 for all icons
   
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&theme=vision-friendly-dark">
 
-  <img width="800" height="200" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark" />
+  <img width="800" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark" />
   
 </p>
 
