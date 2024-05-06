@@ -25,7 +25,7 @@
 
 <div align='center'>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-rathore-securedev&show_icons=true&locale=en&layout=compact" alt="ravi-rathore-securedev" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&" alt="ravi-rathore-securedev" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&locale=en" alt="ravi-rathore-securedev" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&" weight="300" alt="ravi-rathore-securedev" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&locale=en"  weight="300" alt="ravi-rathore-securedev" /></p>
 </div>
 
