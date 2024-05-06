@@ -1,31 +1,120 @@
-<h1 align="center">Hi 👋, I'm Ravi Rathore</h1>
+<h1 align="center">Hello World! 👋 I'm Ravi Rathore</h1>
 
-<h3 align="center">Passionate Software Developer skilled in MERN stack, and Machine Learning. Committed to software security and crafting robust applications. Active contributor to open-source projects. Let's connect and innovate together!</h3>
+<h5 align="center">Passionate Software Developer skilled in MERN stack and Machine Learning. Committed to software security and crafting robust applications. Active contributor to open-source projects. Let's connect and innovate together!</h5>
+
+<h2 align="left">Some Facts About Me</h2>
 
 - 🔭 I’m currently working on **MERN STACK Projects**
-
 - 🌱 I’m currently learning **Problem Solving & Tech Stack related to Development**
+- 📫 How to reach me: [sirravirathore@gmail.com](mailto:sirravirathore@gmail.com)
+- 📄 Know about my experiences: [Experience Overview](https://www.canva.com/design/DAGBoIuvTCA/OwxoWETtnzSFIhYBKhQI7A/view?utm_content=DAGBoIuvTCA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-- 👯 I’m looking to collaborate on **Web and App Development projectss**
 
-- 💬 Ask me about **Machine Learning, React-Native, MERN STACK**
 
-- 📫 How to reach me **sirravirathore@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGBoIuvTCA/OwxoWETtnzSFIhYBKhQI7A/view?utm_content=DAGBoIuvTCA&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGBoIuvTCA/OwxoWETtnzSFIhYBKhQI7A/view?utm_content=DAGBoIuvTCA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+<h2 align="left">Connect with Me
+<p align="left" > 
+<img align="left" src="https://komarev.com/ghpvc/?username=ravi-rathore-securedev&label=Profile%20views&color=0e75b6&style=flat" />
+</p></h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ravi-rathore-securedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ravi-rathore-securedev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sirravirathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sirravirathore" height="30" width="40" /></a>
+
+<p align='left' style="margin:50">
+  <a href="https://github.com/ravi-rathore-securedev"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="GitHub"/></a> 
+<a href="www.linkedin.com/in/ravi-rathore-securedev"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a> 
+  <a href="https://www.leetcode.com/sirravirathore"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/leet-code.svg" width="40" height='40' title="LeetCode"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2 align="left">Skillset</h2>
 
-<div align='center'>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-rathore-securedev&show_icons=true&locale=en&layout=compact" alt="ravi-rathore-securedev" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&" weight="300" alt="ravi-rathore-securedev" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&locale=en"  weight="300" alt="ravi-rathore-securedev" /></p>
-</div>
+<h3 align="left">Programming Languages:</h3>
+
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='C'/>
+   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg" width='40' height='40' title='C++'/>
+   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='40' height='40' title='Java'/>
+   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='JavaScript'/>
+   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='Python'/>
+</p>
+
+<h3 align="left">Frontend Development:</h3>
+
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='React.js'/>
+   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='HTML'/>
+   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='CSS'/>
+   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/redux.svg" width='40' height='40' title='Redux'/>
+   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='Tailwind CSS'/>
+</p>
+
+<h3 align="left">Backend Development:</h3>
+
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='Node.js'/>
+   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='40' height='40' title='Express.js'/>
+</p>
+
+<h3 align="left">Mobile App Development:</h3>
+
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/MobileAppDevelopment/android.svg" width='40' height='40' title='Android'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/MobileAppDevelopment/reactnative.svg" width='40' height='40' title='React Native'/>
+</p>
+
+<h3 align="left">AI / ML:</h3>
+
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/tensorflow.svg" width='40' height='40' title='TensorFlow'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/opencv.svg" width='40' height='40' title='OpenCV'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/scikit.svg" width='40' height='40' title='Scikit-learn'/>
+</p>
+
+<h3 align="left">Database Management:</h3>
+
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='MongoDB'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='MySQL'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/oracle.svg" width='40' height='40' title='Oracle'/>
+</p>
+
+<h3 align="left">Devops:</h3>
+
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width='40' height='40' title='AWS'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/azure.svg" width='40' height='40' title='Azure'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/gcp.svg" width='40' height='40' title='GCP'/>
+</p>
+
+<h3 align="left">Backend as a Service (BaaS):</h3>
+
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BaaS/firebase.svg" width='40' height='40' title='Firebase'/>
+</p>
+
+<h3 align="left">Softwares:</h3>
+
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width='40' height='40' title='Figma'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='Postman'/>
+</p>
+
+<h3 align="left">Static Site Generators:</h3>
+
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/StaticSiteGenerators/nextjs.svg" width='40' height='40' title='Next.js'/>
+</p>
+
+<h3 align="left">Others:</h3>
+
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='Git'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='Linux'/>
+</p>
+
+<br><hr><br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-rathore-securedev&show_icons=true&locale=en&layout=compact" width="500" alt="ravi-rathore-securedev" />
+<img width="50%" align="center" align="left" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&locale=en" />
+<img width="50%" align="center" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&" />
+
+
 
