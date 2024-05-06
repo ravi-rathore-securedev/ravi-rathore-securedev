@@ -24,97 +24,94 @@
   <a href="https://www.leetcode.com/sirravirathore"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/leet-code.svg" width="40" height='40' title="LeetCode"/></a>
 </p>
 
+Here's how you can modify the provided code to match the format of the tables you shared:
+
+Sure, here's the modified code with the width and height set to 55 for all icons:
+
 <h2 align="left">Skillset</h2>
 
-<h3 align="left">Programming Languages:</h3>
+### Programming Languages:
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='C'/>
-   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg" width='40' height='40' title='C++'/>
-   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='40' height='40' title='Java'/>
-   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='JavaScript'/>
-   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='Python'/>
-</p>
+| C | C++ | Java | JavaScript | Python |
+|----------|----------|----------|----------|----------|
+| <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='55' height='55' title='C'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg" width='55' height='55' title='C++'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='55' height='55' title='Java'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='55' height='55' title='JavaScript'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='55' height='55' title='Python'/> |
 
-<h3 align="left">Frontend Development:</h3>
+### Frontend Development:
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='React.js'/>
-   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='HTML'/>
-   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='CSS'/>
-   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/redux.svg" width='40' height='40' title='Redux'/>
-   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='Tailwind CSS'/>
-</p>
+| React.js | HTML | CSS | Redux | Tailwind CSS |
+|----------|----------|----------|----------|----------|
+| <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='55' height='55' title='React.js'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='55' height='55' title='HTML'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='55' height='55' title='CSS'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/redux.svg" width='55' height='55' title='Redux'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='80' height='55' title='Tailwind CSS'/> |
 
-<h3 align="left">Backend Development:</h3>
+### Backend Development:
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='Node.js'/>
-   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='40' height='40' title='Express.js'/>
-</p>
+| Node.js | Express.js |
+|----------|----------|
+| <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='55' height='55' title='Node.js'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='55' height='55' title='Express.js'/> |
 
-<h3 align="left">Mobile App Development:</h3>
+### Mobile App Development:
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/MobileAppDevelopment/android.svg" width='40' height='40' title='Android'/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/MobileAppDevelopment/reactnative.svg" width='40' height='40' title='React Native'/>
-</p>
+| Android | React Native |
+|----------|----------|
+| <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/MobileAppDevelopment/android.svg" width='55' height='55' title='Android'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/MobileAppDevelopment/reactnative.svg" width='80' height='55' title='React Native'/> |
 
-<h3 align="left">AI / ML:</h3>
+### AI / ML:
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/tensorflow.svg" width='40' height='40' title='TensorFlow'/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/opencv.svg" width='40' height='40' title='OpenCV'/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/scikit.svg" width='40' height='40' title='Scikit-learn'/>
-</p>
+| TensorFlow | OpenCV | Scikit-learn |
+|----------|----------|----------|
+| <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/tensorflow.svg" width='75' height='55' title='TensorFlow'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/opencv.svg" width='55' height='55' title='OpenCV'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/scikit.svg" width='75' height='75' title='Scikit-learn'/> |
 
-<h3 align="left">Database Management:</h3>
+### Database Management:
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='MongoDB'/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='MySQL'/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/oracle.svg" width='40' height='40' title='Oracle'/>
-</p>
+| MongoDB | MySQL | Oracle |
+|----------|----------|----------|
+| <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='55' height='55' title='MongoDB'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='55' height='55' title='MySQL'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/oracle.svg" width='55' height='55' title='Oracle'/> |
 
-<h3 align="left">Devops:</h3>
+### Devops:
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width='40' height='40' title='AWS'/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/azure.svg" width='40' height='40' title='Azure'/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/gcp.svg" width='40' height='40' title='GCP'/>
-</p>
+| AWS | Azure | GCP |
+|----------|----------|----------|
+| <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width='55' height='55' title='AWS'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/azure.svg" width='55' height='55' title='Azure'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/gcp.svg" width='55' height='55' title='GCP'/> |
 
-<h3 align="left">Backend as a Service (BaaS):</h3>
+### Backend as a Service (BaaS):
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BaaS/firebase.svg" width='40' height='40' title='Firebase'/>
-</p>
+| Firebase |
+|----------|
+| <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BaaS/firebase.svg" width='55' height='55' title='Firebase'/> |
 
-<h3 align="left">Softwares:</h3>
+### Softwares:
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width='40' height='40' title='Figma'/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='Postman'/>
-</p>
+| Figma | Postman |
+|----------|----------|
+| <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width='55' height='55' title='Figma'/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='55' height='55' title='Postman'/> |
 
-<h3 align="left">Static Site Generators:</h3>
+### Static Site Generators:
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/StaticSiteGenerators/nextjs.svg" width='40' height='40' title='Next.js'/>
-</p>
+| Next.js |
+|----------|
+| <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/StaticSiteGenerators/nextjs.svg" width='55' height='55' title='Next.js'/> |
 
-<h3 align="left">Others:</h3>
+### Others:
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='Git'/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='Linux'/>
-</p>
+
+| Linux | Ubuntu | Kali | Git|
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='55' height='55' title='Git'/> |
+
+
 
 <br><hr><br>
-<div >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-rathore-securedev&show_icons=true&locale=en&layout=compact" width="29%" alt="ravi-rathore-securedev" />
-<img width="36%" align="center" align="left" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&locale=en" />
-<img width="34%" align="center" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&" />
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravi-rathore-securedev&style=for-the-badge&color=orange" alt=""/>
 </div>
+<p align="center">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-rathore-securedev&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&theme=vision-friendly-dark">
+
+  <img width="800" height="200" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark" />
+  
+</p>
+
+
+
 
