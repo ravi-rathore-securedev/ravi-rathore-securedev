@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **MERN STACK Projects**
 - 🌱 I’m currently learning **Problem Solving & Tech Stack related to Development**
 - 📫 How to reach me: [sirravirathore@gmail.com](mailto:sirravirathore@gmail.com)
-- 📄 Know about my experiences: [Experience Overview](https://www.canva.com/design/DAGBoIuvTCA/OwxoWETtnzSFIhYBKhQI7A/view?utm_content=DAGBoIuvTCA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences: [Resume](https://www.canva.com/design/DAGBoIuvTCA/OwxoWETtnzSFIhYBKhQI7A/view?utm_content=DAGBoIuvTCA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 
