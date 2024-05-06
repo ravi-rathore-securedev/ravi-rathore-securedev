@@ -112,9 +112,9 @@
 
 <br><hr><br>
 <div >
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-rathore-securedev&show_icons=true&locale=en&layout=compact" width="26%" alt="ravi-rathore-securedev" />
-<img width="33%" align="center" align="left" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&locale=en" />
-<img width="33%" align="center" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-rathore-securedev&show_icons=true&locale=en&layout=compact" width="29%" alt="ravi-rathore-securedev" />
+<img width="36%" align="center" align="left" src="https://github-readme-stats.vercel.app/api?username=ravi-rathore-securedev&show_icons=true&locale=en" />
+<img width="34%" align="center" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-rathore-securedev&" />
 
 </div>
 
