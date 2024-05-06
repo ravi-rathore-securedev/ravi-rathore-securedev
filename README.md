@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Rathore</h1>
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.4Jx7gLWxQEeMqJC5VwZsfgHaEo?w=298&h=186&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Ravi Rathore" width="200" height="200">
+  <img src="https://wallpapercave.com/wp/wp2610453.jpg" alt="Ravi Rathore" width="400" height="300">
 </p>
 <h3 align="center">Passionate Software Developer skilled in React, React Native, MERN stack, and Machine Learning. Committed to software security and crafting robust applications. Active contributor to open-source projects. Let's connect and innovate together!</h3>
 
