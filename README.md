@@ -1,6 +1,6 @@
 <h1 align="center">Hii 👋, I'm Ravi Rathore</h1>
 
-<h3 align="center">Passionate Software Developer skilled in MERN stack and Machine Learning. Committed to software security and crafting robust applications. Active contributor to open-source projects. Let's connect and innovate together!</h5>
+<h3 align="center">Passionate Software Developer skilled in MERN stack, Python, Django and Machine Learning. Committed to software security and crafting robust applications. Active contributor to open-source projects. Let's connect and innovate together!</h5>
 
 <h2 align="left">Some Facts About Me</h2>
 
